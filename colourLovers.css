@@ -1,0 +1,30 @@
+body {
+    color: #FFFFFF;
+    background: #59C173; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #5D26C1, #a17fe0, #59C173); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #5D26C1, #a17fe0, #59C173); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    font-family: 'Lato', sans-serif;
+    padding: 0 5em 5em 5em;
+}
+
+h1 {
+    font-weight: lighter;
+}
+
+#time {
+    text-align: right;
+    font-size: small;
+    font-weight: bold;
+    padding: 1em;
+}
+
+.title {
+    font-weight: normal;
+    text-transform: uppercase;
+}
+
+.popularity {
+    background-color: #5D26C1;
+    padding: 5px;
+    border-radius: 5%;
+}
