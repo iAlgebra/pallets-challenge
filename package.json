@@ -1,0 +1,13 @@
+{
+  "name": "pallets-challenge",
+  "version": "0.0.1",
+  "description": "My version of Tenant Base's challenge https://github.com/TenantBase/hiring-frontend-challenge",
+  "main": "index.js",
+  "repository": "https://github.com/iAlgebra/pallets-challenge.git",
+  "author": "Maria Gabriela Barrios Cantera <barrios.cantera@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
